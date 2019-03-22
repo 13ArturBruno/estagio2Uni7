@@ -6,3 +6,4 @@
 
 * Paulo Ricardo;
 * Hugo Torres;
+* Artur Bruno;
